@@ -1,6 +1,5 @@
 # Deduplicator script and slide data
 deduplicate_slides.py
-README.md
 requirements.txt
 lecture_pdfs/
 output/
