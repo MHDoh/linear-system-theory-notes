@@ -1,0 +1,35 @@
+# Deduplicator script and slide data
+deduplicate_slides.py
+README.md
+requirements.txt
+lecture_pdfs/
+output/
+
+# Byte-compiled / Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# IDE, Editor & AI Assistant settings
+.claude/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# LaTeX temporary files & cache
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+.miktex/
+_latex_tmp/
