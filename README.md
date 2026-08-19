@@ -1,6 +1,6 @@
 # ELEC505: Linear System Theory
 
-Comprehensive lecture notes, study guides, cheatsheets, exam predictions, and compiled PDF resources for **ELEC505 LINEAR SYSTEM THEORY** at **Koç University** (Spring 2026).
+Comprehensive lecture notes, study guides, cheatsheets, and compiled PDF resources for **ELEC505 LINEAR SYSTEM THEORY** at **Koç University** (Spring 2026).
 
 ---
 
@@ -24,14 +24,10 @@ Comprehensive lecture notes, study guides, cheatsheets, exam predictions, and co
     │   │   ├── lecture_notes/         # PDF version of each lecture note
     │   │   ├── combined/              # Full course combined PDF notes
     │   │   └── review/                # PDF revision guides & cheatsheets
-    │   ├── review/                    # Revision guides & professor-style Q&A
-    │   └── exam_reports/              # Per-lecture exam analysis reports
-    ├── final_cheatsheet.md            # Quick-reference exam cheatsheet
+    │   └── review/                    # Last day revision & study guides
+    ├── final_cheatsheet.md            # Quick-reference cheatsheet
     ├── master_notes.md                # Master summary of course concepts
-    ├── master_proof_notes_cheatsheet.md  # Proof & theory summary
-    ├── final_exam_prediction.md       # Predicted exam questions & topics
-    ├── theoretical_exam_prediction.md # Theoretical proof predictions
-    └── mock_final_exam.md             # Practice final exam
+    └── master_proof_notes_cheatsheet.md  # Proof & theory summary
 ```
 
 ---
