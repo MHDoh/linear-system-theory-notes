@@ -1,13 +1,13 @@
-# ELEC505-Spring26-01-GSSE: Linear System Theory
+# ELEC505-Spring26-01: Linear System Theory
 
-Comprehensive lecture notes, study guides, cheatsheets, exam predictions, and compiled PDF resources for **ELEC505-Spring26-01-GSSE - LINEAR SYSTEM THEORY** at **Koç University** (Spring 2026).
+Comprehensive lecture notes, study guides, cheatsheets, exam predictions, and compiled PDF resources for **ELEC505-Spring26-01 - LINEAR SYSTEM THEORY** at **Koç University** (Spring 2026).
 
 ---
 
 ## 📚 Course Details
 
-- **Course**: `ELEC505-Spring26-01-GSSE - LINEAR SYSTEM THEORY`
-- **Institution**: Koç University (Graduate School of Sciences and Engineering - GSSE)
+- **Course**: `ELEC505-Spring26-01 - LINEAR SYSTEM THEORY`
+- **Institution**: Koç University
 - **Term**: Spring 2026
 
 ---
